@@ -287,6 +287,10 @@
         "path": {
           "description": "The path to contain the staged data in the Blob storage.",
           "type": "string"
+        },
+        "test_perp": {
+          "description": "This is for testing.",
+          "type": "string"
         }
       }
     },
